@@ -2,7 +2,7 @@
 
 Proyecto 48 del reto 50 proyectos en 50 días.
 
-'Testimonials' muestra cajas con mensajes que hacen los usuarios de un producto ficticio. Las cosas se mueven a manera de slides.
+'Testimonials' muestra cajas con mensajes que hacen los usuarios de un producto ficticio. Las cajas se mueven a manera de slides.
 
 ## Demo
 
